@@ -1,4 +1,4 @@
-module github.com/kirkeby/flargh
+module github.com/kirkeby/curly-meme
 
 go 1.16
 
