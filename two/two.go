@@ -1,9 +1,7 @@
-package one
+package two
 
 import (
 	"testing"
-
-	"github.com/stretchr/testify/assert"
 )
 
 func TestFest(t *testing.T) {
